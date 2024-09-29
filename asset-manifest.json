@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/immigration-law-firm/static/css/main.139096ec.css",
+    "main.js": "/immigration-law-firm/static/js/main.3a7728c4.js",
+    "static/media/ray2.JPG": "/immigration-law-firm/static/media/ray2.ed954f1476eb3a8aafe6.JPG",
+    "static/media/jo.jpeg": "/immigration-law-firm/static/media/jo.759c3f1bb9f788d7b7f3.jpeg",
+    "static/media/ray.jpg": "/immigration-law-firm/static/media/ray.36480f5d7def5bce65f2.jpg",
+    "static/media/jo2.jpg": "/immigration-law-firm/static/media/jo2.e3a88a9d61316915f8da.jpg",
+    "static/media/court.jpeg": "/immigration-law-firm/static/media/court.9d4ad9e48c3592110222.jpeg",
+    "static/media/about.png": "/immigration-law-firm/static/media/about.8d049077fc04dca5aff1.png",
+    "static/media/goal.png": "/immigration-law-firm/static/media/goal.2bddaef0a92ed10d5762.png",
+    "static/media/court.jpg": "/immigration-law-firm/static/media/court.4649c0b695cfeaa58590.jpg",
+    "static/media/commit.png": "/immigration-law-firm/static/media/commit.1832e6e4edef85c19864.png",
+    "static/media/contact.jpg": "/immigration-law-firm/static/media/contact.5d5acb71bb188bf70f13.jpg",
+    "static/media/tel.png": "/immigration-law-firm/static/media/tel.1ad3ef3e3e529c644da9.png",
+    "static/media/klogo.png": "/immigration-law-firm/static/media/klogo.7266fbd0922684266dda.png",
+    "static/media/about.jpg": "/immigration-law-firm/static/media/about.b862e61bf416eb90379d.jpg",
+    "index.html": "/immigration-law-firm/index.html",
+    "static/media/contact.svg": "/immigration-law-firm/static/media/contact.23cf74f7e22e5f56b2ea43cfa1ec9b8a.svg",
+    "static/media/address.svg": "/immigration-law-firm/static/media/address.d23890fc4d36e24f0f013c3b4d716108.svg",
+    "static/media/time.svg": "/immigration-law-firm/static/media/time.6a25e291885fb67fb5799d314a845a4a.svg",
+    "static/media/mail.svg": "/immigration-law-firm/static/media/mail.03504e7bdd6c1a0cfa396cb5ce670476.svg",
+    "main.139096ec.css.map": "/immigration-law-firm/static/css/main.139096ec.css.map",
+    "main.3a7728c4.js.map": "/immigration-law-firm/static/js/main.3a7728c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.139096ec.css",
+    "static/js/main.3a7728c4.js"
+  ]
+}
