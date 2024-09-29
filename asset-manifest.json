@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/immigration-law-firm/static/css/main.6b348fc1.css",
-    "main.js": "/immigration-law-firm/static/js/main.dd0e031c.js",
+    "main.js": "/immigration-law-firm/static/js/main.c0c83755.js",
     "static/media/ray2.JPG": "/immigration-law-firm/static/media/ray2.ed954f1476eb3a8aafe6.JPG",
+    "static/media/video_vjeh72.mp4": "/immigration-law-firm/static/media/video_vjeh72.6843e9c328c1d7ba5c93.mp4",
     "static/media/jo.jpeg": "/immigration-law-firm/static/media/jo.759c3f1bb9f788d7b7f3.jpeg",
     "static/media/ray.jpg": "/immigration-law-firm/static/media/ray.36480f5d7def5bce65f2.jpg",
     "static/media/jo2.jpg": "/immigration-law-firm/static/media/jo2.e3a88a9d61316915f8da.jpg",
@@ -21,10 +22,10 @@
     "static/media/time.svg": "/immigration-law-firm/static/media/time.6a25e291885fb67fb5799d314a845a4a.svg",
     "static/media/mail.svg": "/immigration-law-firm/static/media/mail.03504e7bdd6c1a0cfa396cb5ce670476.svg",
     "main.6b348fc1.css.map": "/immigration-law-firm/static/css/main.6b348fc1.css.map",
-    "main.dd0e031c.js.map": "/immigration-law-firm/static/js/main.dd0e031c.js.map"
+    "main.c0c83755.js.map": "/immigration-law-firm/static/js/main.c0c83755.js.map"
   },
   "entrypoints": [
     "static/css/main.6b348fc1.css",
-    "static/js/main.dd0e031c.js"
+    "static/js/main.c0c83755.js"
   ]
 }
